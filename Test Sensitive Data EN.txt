@@ -1,0 +1,32 @@
+Test Sensitive Data EN
+# Contains various PII (Personally Identifiable Information) for testing
+
+## Personal Information
+Full Name: John Michael Smith, Emma Olivia Davis, Robert James Wilson
+Nickname: Jack, Liz, Bob
+Phone Number: +1-555-123-4567, 555-987-6543, 18001234567 (international)
+Email Address: john.smith99@gmail.com, emma.davis@company.org, robert_wilson@outlook.com
+Passport Number: US123456789, UK987654321, CA456789123
+SSN (US Social Security Number): 123-45-6789, 987-65-4321
+Driver License: D12345678, E98765432, R45678912
+
+## Financial Information
+Credit Card Number: 4111-1111-1111-1111 (Visa), 5555-5555-5555-4444 (MasterCard), 3782-822463-10005 (American Express)
+Bank Account Number: 1234567890123456, 9876543210987654
+IBAN: GB29 NWBK 6016 1331 9268 19, US0210000210000345678901
+Tax ID: TX123456789, CA987654321
+
+## Address & Contact
+Residential Address: 123 Main Street, New York, NY 10001, USA; 456 Oak Avenue, Los Angeles, CA 90001, USA
+Office Address: 789 Business Park, Chicago, IL 60601, Suite 105
+Emergency Contact: +1-555-444-3333 (wife: Sarah Smith), +1-555-777-8888 (husband: David Davis)
+
+## Professional Information
+Employee ID: EMP-12345, EMP-67890, EMP-54321
+Company ID: COM-98765, COM-43210
+Work Phone: +1-555-222-1111, 555-333-4444 (ext 123)
+
+## Miscellaneous
+Date of Birth: 01/15/1990 (John), 05/20/1985 (Emma), 09/30/1978 (Robert)
+IP Address: 192.168.1.100, 8.8.8.8, 10.0.0.1
+MAC Address: 00:1A:2B:3C:4D:5E, 11:22:33:44:55:66
